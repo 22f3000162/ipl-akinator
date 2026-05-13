@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Node
+node_modules/
+dist/
+.vercel
+
+# Firebase/Secrets
+serviceAccountKey.json
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

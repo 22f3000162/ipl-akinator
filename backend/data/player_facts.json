@@ -1,0 +1,2895 @@
+[
+  {
+    "player_name": "Virat Kohli",
+    "player_id": "virat-kohli",
+    "facts": [
+      "Virat Kohli is an Indian cricketer.",
+      "Virat Kohli is primarily a batsman.",
+      "Virat Kohli usually opens the batting.",
+      "Virat Kohli has captained an IPL team.",
+      "Virat Kohli has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "MS Dhoni",
+    "player_id": "ms-dhoni",
+    "facts": [
+      "MS Dhoni is an Indian cricketer.",
+      "MS Dhoni is a wicketkeeper.",
+      "MS Dhoni bats right-handed.",
+      "MS Dhoni has captained an IPL team.",
+      "MS Dhoni is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Rohit Sharma",
+    "player_id": "rohit-sharma",
+    "facts": [
+      "Rohit Sharma is an Indian cricketer.",
+      "Rohit Sharma is primarily a batsman.",
+      "Rohit Sharma usually opens the batting.",
+      "Rohit Sharma has captained an IPL team.",
+      "Rohit Sharma is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Tapan Sharma",
+    "player_id": "tapan-sharma",
+    "facts": [
+      "Tapan Sharma is an Indian cricketer.",
+      "Tapan Sharma is primarily a bowler.",
+      "Tapan Sharma is a spin bowler.",
+      "Tapan Sharma has played in the IPL.",
+      "Tapan Sharma is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Jasprit Bumrah",
+    "player_id": "jasprit-bumrah",
+    "facts": [
+      "Jasprit Bumrah is an Indian cricketer.",
+      "Jasprit Bumrah is primarily a bowler.",
+      "Jasprit Bumrah is a fast bowler.",
+      "Jasprit Bumrah has won the IPL title.",
+      "Jasprit Bumrah is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Rashid Khan",
+    "player_id": "rashid-khan",
+    "facts": [
+      "Rashid Khan is an overseas IPL player.",
+      "Rashid Khan is known as an all-rounder.",
+      "Rashid Khan is a spin bowler.",
+      "Rashid Khan has won the IPL title.",
+      "Rashid Khan is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Andre Russell",
+    "player_id": "andre-russell",
+    "facts": [
+      "Andre Russell is an overseas IPL player.",
+      "Andre Russell is known as an all-rounder.",
+      "Andre Russell is a fast bowler.",
+      "Andre Russell has won the IPL title.",
+      "Andre Russell is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Kruger van Wyk",
+    "player_id": "kruger-van-wyk",
+    "facts": [
+      "Kruger van Wyk is an overseas IPL player.",
+      "Kruger van Wyk is a wicketkeeper.",
+      "Kruger van Wyk bats right-handed.",
+      "Kruger van Wyk has played in the IPL.",
+      "Kruger van Wyk is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Michael Vaughan",
+    "player_id": "michael-vaughan",
+    "facts": [
+      "Michael Vaughan is an overseas IPL player.",
+      "Michael Vaughan is primarily a batsman.",
+      "Michael Vaughan bats right-handed.",
+      "Michael Vaughan has played in the IPL.",
+      "Michael Vaughan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "David Warner",
+    "player_id": "david-warner",
+    "facts": [
+      "David Warner is an overseas IPL player.",
+      "David Warner is primarily a batsman.",
+      "David Warner usually opens the batting.",
+      "David Warner has captained an IPL team.",
+      "David Warner has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "KL Rahul",
+    "player_id": "kl-rahul",
+    "facts": [
+      "KL Rahul is an Indian cricketer.",
+      "KL Rahul is a wicketkeeper.",
+      "KL Rahul usually opens the batting.",
+      "KL Rahul has captained an IPL team.",
+      "KL Rahul has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Rishabh Pant",
+    "player_id": "rishabh-pant",
+    "facts": [
+      "Rishabh Pant is an Indian cricketer.",
+      "Rishabh Pant is a wicketkeeper.",
+      "Rishabh Pant bats left-handed.",
+      "Rishabh Pant has captained an IPL team.",
+      "Rishabh Pant is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Ruturaj Gaikwad",
+    "player_id": "ruturaj-gaikwad",
+    "facts": [
+      "Ruturaj Gaikwad is an Indian cricketer.",
+      "Ruturaj Gaikwad is primarily a batsman.",
+      "Ruturaj Gaikwad usually opens the batting.",
+      "Ruturaj Gaikwad has captained an IPL team.",
+      "Ruturaj Gaikwad has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Ravindra Jadeja",
+    "player_id": "ravindra-jadeja",
+    "facts": [
+      "Ravindra Jadeja is an Indian cricketer.",
+      "Ravindra Jadeja is known as an all-rounder.",
+      "Ravindra Jadeja is a spin bowler.",
+      "Ravindra Jadeja has won the IPL title.",
+      "Ravindra Jadeja is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Yuzvendra Chahal",
+    "player_id": "yuzvendra-chahal",
+    "facts": [
+      "Yuzvendra Chahal is an Indian cricketer.",
+      "Yuzvendra Chahal is primarily a bowler.",
+      "Yuzvendra Chahal is a spin bowler.",
+      "Yuzvendra Chahal has played in the IPL.",
+      "Yuzvendra Chahal has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Mohammed Shami",
+    "player_id": "mohammed-shami",
+    "facts": [
+      "Mohammed Shami is an Indian cricketer.",
+      "Mohammed Shami is primarily a bowler.",
+      "Mohammed Shami is a fast bowler.",
+      "Mohammed Shami has played in the IPL.",
+      "Mohammed Shami has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Bhuvneshwar Kumar",
+    "player_id": "bhuvneshwar-kumar",
+    "facts": [
+      "Bhuvneshwar Kumar is an Indian cricketer.",
+      "Bhuvneshwar Kumar is primarily a bowler.",
+      "Bhuvneshwar Kumar bowls medium pace.",
+      "Bhuvneshwar Kumar has played in the IPL.",
+      "Bhuvneshwar Kumar has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Kane Williamson",
+    "player_id": "kane-williamson",
+    "facts": [
+      "Kane Williamson is an overseas IPL player.",
+      "Kane Williamson is primarily a batsman.",
+      "Kane Williamson bats right-handed.",
+      "Kane Williamson has captained an IPL team.",
+      "Kane Williamson is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Joe Root",
+    "player_id": "joe-root",
+    "facts": [
+      "Joe Root is an overseas IPL player.",
+      "Joe Root is primarily a batsman.",
+      "Joe Root bats right-handed.",
+      "Joe Root has played in the IPL.",
+      "Joe Root is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sandeep Sharma",
+    "player_id": "sandeep-sharma",
+    "facts": [
+      "Sandeep Sharma is an Indian cricketer.",
+      "Sandeep Sharma is primarily a bowler.",
+      "Sandeep Sharma bowls medium pace.",
+      "Sandeep Sharma has played in the IPL.",
+      "Sandeep Sharma is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Faf du Plessis",
+    "player_id": "faf-du-plessis",
+    "facts": [
+      "Faf du Plessis is an overseas IPL player.",
+      "Faf du Plessis is primarily a batsman.",
+      "Faf du Plessis usually opens the batting.",
+      "Faf du Plessis has captained an IPL team.",
+      "Faf du Plessis is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Suryakumar Yadav",
+    "player_id": "suryakumar-yadav",
+    "facts": [
+      "Suryakumar Yadav is an Indian cricketer.",
+      "Suryakumar Yadav is primarily a batsman.",
+      "Suryakumar Yadav bats right-handed.",
+      "Suryakumar Yadav has won the IPL title.",
+      "Suryakumar Yadav is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Pat Cummins",
+    "player_id": "pat-cummins",
+    "facts": [
+      "Pat Cummins is an overseas IPL player.",
+      "Pat Cummins is known as an all-rounder.",
+      "Pat Cummins is a fast bowler.",
+      "Pat Cummins has captained an IPL team.",
+      "Pat Cummins is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Prithvi Shaw",
+    "player_id": "prithvi-shaw",
+    "facts": [
+      "Prithvi Shaw is an Indian cricketer.",
+      "Prithvi Shaw is primarily a batsman.",
+      "Prithvi Shaw usually opens the batting.",
+      "Prithvi Shaw has played in the IPL.",
+      "Prithvi Shaw is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Adam Zampa",
+    "player_id": "adam-zampa",
+    "facts": [
+      "Adam Zampa is an overseas IPL player.",
+      "Adam Zampa is primarily a bowler.",
+      "Adam Zampa is a spin bowler.",
+      "Adam Zampa has played in the IPL.",
+      "Adam Zampa is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ishan Kishan",
+    "player_id": "ishan-kishan",
+    "facts": [
+      "Ishan Kishan is an Indian cricketer.",
+      "Ishan Kishan is a wicketkeeper.",
+      "Ishan Kishan usually opens the batting.",
+      "Ishan Kishan has won the IPL title.",
+      "Ishan Kishan is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Praveen Dubey",
+    "player_id": "praveen-dubey",
+    "facts": [
+      "Praveen Dubey is an Indian cricketer.",
+      "Praveen Dubey is primarily a bowler.",
+      "Praveen Dubey is a spin bowler.",
+      "Praveen Dubey has played in the IPL.",
+      "Praveen Dubey is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Varun Chakaravarthy",
+    "player_id": "varun-chakaravarthy",
+    "facts": [
+      "Varun Chakaravarthy is an Indian cricketer.",
+      "Varun Chakaravarthy is primarily a bowler.",
+      "Varun Chakaravarthy is a spin bowler.",
+      "Varun Chakaravarthy has won the IPL title.",
+      "Varun Chakaravarthy is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Kuldeep Yadav",
+    "player_id": "kuldeep-yadav",
+    "facts": [
+      "Kuldeep Yadav is an Indian cricketer.",
+      "Kuldeep Yadav is primarily a bowler.",
+      "Kuldeep Yadav is a spin bowler.",
+      "Kuldeep Yadav has played in the IPL.",
+      "Kuldeep Yadav is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Deepak Hooda",
+    "player_id": "deepak-hooda",
+    "facts": [
+      "Deepak Hooda is an Indian cricketer.",
+      "Deepak Hooda is known as an all-rounder.",
+      "Deepak Hooda bats right-handed.",
+      "Deepak Hooda has played in the IPL.",
+      "Deepak Hooda is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Tushar Deshpande",
+    "player_id": "tushar-deshpande",
+    "facts": [
+      "Tushar Deshpande is an Indian cricketer.",
+      "Tushar Deshpande is primarily a bowler.",
+      "Tushar Deshpande is a fast bowler.",
+      "Tushar Deshpande has played in the IPL.",
+      "Tushar Deshpande is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Sachin Tendulkar",
+    "player_id": "sachin-tendulkar",
+    "facts": [
+      "Sachin Tendulkar is an Indian cricketer.",
+      "Sachin Tendulkar is primarily a batsman.",
+      "Sachin Tendulkar usually opens the batting.",
+      "Sachin Tendulkar has captained an IPL team.",
+      "Sachin Tendulkar has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "AB de Villiers",
+    "player_id": "ab-de-villiers",
+    "facts": [
+      "AB de Villiers is an overseas IPL player.",
+      "AB de Villiers is primarily a batsman.",
+      "AB de Villiers bats right-handed.",
+      "AB de Villiers has captained an IPL team.",
+      "AB de Villiers is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Chris Gayle",
+    "player_id": "chris-gayle",
+    "facts": [
+      "Chris Gayle is an overseas IPL player.",
+      "Chris Gayle is primarily a batsman.",
+      "Chris Gayle is a spin bowler.",
+      "Chris Gayle has played in the IPL.",
+      "Chris Gayle has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Lasith Malinga",
+    "player_id": "lasith-malinga",
+    "facts": [
+      "Lasith Malinga is an overseas IPL player.",
+      "Lasith Malinga is primarily a bowler.",
+      "Lasith Malinga is a fast bowler.",
+      "Lasith Malinga has won the IPL title.",
+      "Lasith Malinga has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Yuvraj Singh",
+    "player_id": "yuvraj-singh",
+    "facts": [
+      "Yuvraj Singh is an Indian cricketer.",
+      "Yuvraj Singh is known as an all-rounder.",
+      "Yuvraj Singh is a spin bowler.",
+      "Yuvraj Singh has played in the IPL.",
+      "Yuvraj Singh is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Gautam Gambhir",
+    "player_id": "gautam-gambhir",
+    "facts": [
+      "Gautam Gambhir is an Indian cricketer.",
+      "Gautam Gambhir is primarily a batsman.",
+      "Gautam Gambhir usually opens the batting.",
+      "Gautam Gambhir has captained an IPL team.",
+      "Gautam Gambhir is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Harbhajan Singh",
+    "player_id": "harbhajan-singh",
+    "facts": [
+      "Harbhajan Singh is an Indian cricketer.",
+      "Harbhajan Singh is known as an all-rounder.",
+      "Harbhajan Singh is a spin bowler.",
+      "Harbhajan Singh has won the IPL title.",
+      "Harbhajan Singh is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shane Watson",
+    "player_id": "shane-watson",
+    "facts": [
+      "Shane Watson is an overseas IPL player.",
+      "Shane Watson is known as an all-rounder.",
+      "Shane Watson is a fast bowler.",
+      "Shane Watson has won the IPL title.",
+      "Shane Watson is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Adam Gilchrist",
+    "player_id": "adam-gilchrist",
+    "facts": [
+      "Adam Gilchrist is an overseas IPL player.",
+      "Adam Gilchrist is a wicketkeeper.",
+      "Adam Gilchrist usually opens the batting.",
+      "Adam Gilchrist has captained an IPL team.",
+      "Adam Gilchrist is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Ricky Ponting",
+    "player_id": "ricky-ponting",
+    "facts": [
+      "Ricky Ponting is an overseas IPL player.",
+      "Ricky Ponting is primarily a batsman.",
+      "Ricky Ponting bats right-handed.",
+      "Ricky Ponting has captained an IPL team.",
+      "Ricky Ponting is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sourav Ganguly",
+    "player_id": "sourav-ganguly",
+    "facts": [
+      "Sourav Ganguly is an Indian cricketer.",
+      "Sourav Ganguly is known as an all-rounder.",
+      "Sourav Ganguly usually opens the batting.",
+      "Sourav Ganguly has captained an IPL team.",
+      "Sourav Ganguly is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Muttiah Muralitharan",
+    "player_id": "muttiah-muralitharan",
+    "facts": [
+      "Muttiah Muralitharan is an overseas IPL player.",
+      "Muttiah Muralitharan is primarily a bowler.",
+      "Muttiah Muralitharan is a spin bowler.",
+      "Muttiah Muralitharan has played in the IPL.",
+      "Muttiah Muralitharan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Brendon McCullum",
+    "player_id": "brendon-mccullum",
+    "facts": [
+      "Brendon McCullum is an overseas IPL player.",
+      "Brendon McCullum is a wicketkeeper.",
+      "Brendon McCullum usually opens the batting.",
+      "Brendon McCullum has played in the IPL.",
+      "Brendon McCullum is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Kevin Pietersen",
+    "player_id": "kevin-pietersen",
+    "facts": [
+      "Kevin Pietersen is an overseas IPL player.",
+      "Kevin Pietersen is known as an all-rounder.",
+      "Kevin Pietersen bats right-handed.",
+      "Kevin Pietersen has played in the IPL.",
+      "Kevin Pietersen is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Dwayne Bravo",
+    "player_id": "dwayne-bravo",
+    "facts": [
+      "Dwayne Bravo is an overseas IPL player.",
+      "Dwayne Bravo is known as an all-rounder.",
+      "Dwayne Bravo is a fast bowler.",
+      "Dwayne Bravo has won the IPL title.",
+      "Dwayne Bravo is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Kieron Pollard",
+    "player_id": "kieron-pollard",
+    "facts": [
+      "Kieron Pollard is an overseas IPL player.",
+      "Kieron Pollard is known as an all-rounder.",
+      "Kieron Pollard is a fast bowler.",
+      "Kieron Pollard has won the IPL title.",
+      "Kieron Pollard is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Hardik Pandya",
+    "player_id": "hardik-pandya",
+    "facts": [
+      "Hardik Pandya is an Indian cricketer.",
+      "Hardik Pandya is known as an all-rounder.",
+      "Hardik Pandya is a fast bowler.",
+      "Hardik Pandya has captained an IPL team.",
+      "Hardik Pandya is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Suresh Raina",
+    "player_id": "suresh-raina",
+    "facts": [
+      "Suresh Raina is an Indian cricketer.",
+      "Suresh Raina is known as an all-rounder.",
+      "Suresh Raina bats left-handed.",
+      "Suresh Raina has captained an IPL team.",
+      "Suresh Raina is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Ambati Rayudu",
+    "player_id": "ambati-rayudu",
+    "facts": [
+      "Ambati Rayudu is an Indian cricketer.",
+      "Ambati Rayudu is known as an all-rounder.",
+      "Ambati Rayudu bats right-handed.",
+      "Ambati Rayudu has won the IPL title.",
+      "Ambati Rayudu is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ajinkya Rahane",
+    "player_id": "ajinkya-rahane",
+    "facts": [
+      "Ajinkya Rahane is an Indian cricketer.",
+      "Ajinkya Rahane is primarily a batsman.",
+      "Ajinkya Rahane bats right-handed.",
+      "Ajinkya Rahane has captained an IPL team.",
+      "Ajinkya Rahane is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shikhar Dhawan",
+    "player_id": "shikhar-dhawan",
+    "facts": [
+      "Shikhar Dhawan is an Indian cricketer.",
+      "Shikhar Dhawan is primarily a batsman.",
+      "Shikhar Dhawan usually opens the batting.",
+      "Shikhar Dhawan has played in the IPL.",
+      "Shikhar Dhawan has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Murali Vijay",
+    "player_id": "murali-vijay",
+    "facts": [
+      "Murali Vijay is an Indian cricketer.",
+      "Murali Vijay is primarily a batsman.",
+      "Murali Vijay usually opens the batting.",
+      "Murali Vijay has won the IPL title.",
+      "Murali Vijay is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dinesh Karthik",
+    "player_id": "dinesh-karthik",
+    "facts": [
+      "Dinesh Karthik is an Indian cricketer.",
+      "Dinesh Karthik is a wicketkeeper.",
+      "Dinesh Karthik bats right-handed.",
+      "Dinesh Karthik has captained an IPL team.",
+      "Dinesh Karthik is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Manoj Tiwary",
+    "player_id": "manoj-tiwary",
+    "facts": [
+      "Manoj Tiwary is an Indian cricketer.",
+      "Manoj Tiwary is known as an all-rounder.",
+      "Manoj Tiwary bats right-handed.",
+      "Manoj Tiwary has played in the IPL.",
+      "Manoj Tiwary is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Wriddhiman Saha",
+    "player_id": "wriddhiman-saha",
+    "facts": [
+      "Wriddhiman Saha is an Indian cricketer.",
+      "Wriddhiman Saha is a wicketkeeper.",
+      "Wriddhiman Saha bats right-handed.",
+      "Wriddhiman Saha has played in the IPL.",
+      "Wriddhiman Saha is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Cheteshwar Pujara",
+    "player_id": "cheteshwar-pujara",
+    "facts": [
+      "Cheteshwar Pujara is an Indian cricketer.",
+      "Cheteshwar Pujara is primarily a batsman.",
+      "Cheteshwar Pujara bats right-handed.",
+      "Cheteshwar Pujara has played in the IPL.",
+      "Cheteshwar Pujara is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sanju Samson",
+    "player_id": "sanju-samson",
+    "facts": [
+      "Sanju Samson is an Indian cricketer.",
+      "Sanju Samson is a wicketkeeper.",
+      "Sanju Samson bats right-handed.",
+      "Sanju Samson has captained an IPL team.",
+      "Sanju Samson has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Rahul Tewatia",
+    "player_id": "rahul-tewatia",
+    "facts": [
+      "Rahul Tewatia is an Indian cricketer.",
+      "Rahul Tewatia is known as an all-rounder.",
+      "Rahul Tewatia is a spin bowler.",
+      "Rahul Tewatia has played in the IPL.",
+      "Rahul Tewatia is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Shubman Gill",
+    "player_id": "shubman-gill",
+    "facts": [
+      "Shubman Gill is an Indian cricketer.",
+      "Shubman Gill is primarily a batsman.",
+      "Shubman Gill usually opens the batting.",
+      "Shubman Gill has won the IPL title.",
+      "Shubman Gill has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Sunil Narine",
+    "player_id": "sunil-narine",
+    "facts": [
+      "Sunil Narine is an overseas IPL player.",
+      "Sunil Narine is known as an all-rounder.",
+      "Sunil Narine is a spin bowler.",
+      "Sunil Narine has won the IPL title.",
+      "Sunil Narine is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Eoin Morgan",
+    "player_id": "eoin-morgan",
+    "facts": [
+      "Eoin Morgan is an overseas IPL player.",
+      "Eoin Morgan is known as an all-rounder.",
+      "Eoin Morgan bats left-handed.",
+      "Eoin Morgan has captained an IPL team.",
+      "Eoin Morgan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Matthew Wade",
+    "player_id": "matthew-wade",
+    "facts": [
+      "Matthew Wade is an overseas IPL player.",
+      "Matthew Wade is a wicketkeeper.",
+      "Matthew Wade bats left-handed.",
+      "Matthew Wade has played in the IPL.",
+      "Matthew Wade is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Tim David",
+    "player_id": "tim-david",
+    "facts": [
+      "Tim David is an overseas IPL player.",
+      "Tim David is known as an all-rounder.",
+      "Tim David bats right-handed.",
+      "Tim David has played in the IPL.",
+      "Tim David is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Nicholas Pooran",
+    "player_id": "nicholas-pooran",
+    "facts": [
+      "Nicholas Pooran is an overseas IPL player.",
+      "Nicholas Pooran is a wicketkeeper.",
+      "Nicholas Pooran bats left-handed.",
+      "Nicholas Pooran has played in the IPL.",
+      "Nicholas Pooran is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Liam Livingstone",
+    "player_id": "liam-livingstone",
+    "facts": [
+      "Liam Livingstone is an overseas IPL player.",
+      "Liam Livingstone is known as an all-rounder.",
+      "Liam Livingstone is a spin bowler.",
+      "Liam Livingstone has played in the IPL.",
+      "Liam Livingstone is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Trent Boult",
+    "player_id": "trent-boult",
+    "facts": [
+      "Trent Boult is an overseas IPL player.",
+      "Trent Boult is primarily a bowler.",
+      "Trent Boult is a fast bowler.",
+      "Trent Boult has won the IPL title.",
+      "Trent Boult is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Kagiso Rabada",
+    "player_id": "kagiso-rabada",
+    "facts": [
+      "Kagiso Rabada is an overseas IPL player.",
+      "Kagiso Rabada is primarily a bowler.",
+      "Kagiso Rabada is a fast bowler.",
+      "Kagiso Rabada has played in the IPL.",
+      "Kagiso Rabada has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Anrich Nortje",
+    "player_id": "anrich-nortje",
+    "facts": [
+      "Anrich Nortje is an overseas IPL player.",
+      "Anrich Nortje is primarily a bowler.",
+      "Anrich Nortje is a fast bowler.",
+      "Anrich Nortje has played in the IPL.",
+      "Anrich Nortje is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Deepak Chahar",
+    "player_id": "deepak-chahar",
+    "facts": [
+      "Deepak Chahar is an Indian cricketer.",
+      "Deepak Chahar is known as an all-rounder.",
+      "Deepak Chahar bowls medium pace.",
+      "Deepak Chahar has played in the IPL.",
+      "Deepak Chahar is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Shardul Thakur",
+    "player_id": "shardul-thakur",
+    "facts": [
+      "Shardul Thakur is an Indian cricketer.",
+      "Shardul Thakur is known as an all-rounder.",
+      "Shardul Thakur is a fast bowler.",
+      "Shardul Thakur has played in the IPL.",
+      "Shardul Thakur is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Harshal Patel",
+    "player_id": "harshal-patel",
+    "facts": [
+      "Harshal Patel is an Indian cricketer.",
+      "Harshal Patel is known as an all-rounder.",
+      "Harshal Patel bowls medium pace.",
+      "Harshal Patel has played in the IPL.",
+      "Harshal Patel has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Avesh Khan",
+    "player_id": "avesh-khan",
+    "facts": [
+      "Avesh Khan is an Indian cricketer.",
+      "Avesh Khan is primarily a bowler.",
+      "Avesh Khan is a fast bowler.",
+      "Avesh Khan has played in the IPL.",
+      "Avesh Khan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Arshdeep Singh",
+    "player_id": "arshdeep-singh",
+    "facts": [
+      "Arshdeep Singh is an Indian cricketer.",
+      "Arshdeep Singh is primarily a bowler.",
+      "Arshdeep Singh is a fast bowler.",
+      "Arshdeep Singh has played in the IPL.",
+      "Arshdeep Singh is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Washington Sundar",
+    "player_id": "washington-sundar",
+    "facts": [
+      "Washington Sundar is an Indian cricketer.",
+      "Washington Sundar is known as an all-rounder.",
+      "Washington Sundar is a spin bowler.",
+      "Washington Sundar has played in the IPL.",
+      "Washington Sundar is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Axar Patel",
+    "player_id": "axar-patel",
+    "facts": [
+      "Axar Patel is an Indian cricketer.",
+      "Axar Patel is known as an all-rounder.",
+      "Axar Patel is a spin bowler.",
+      "Axar Patel has played in the IPL.",
+      "Axar Patel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shreyas Iyer",
+    "player_id": "shreyas-iyer",
+    "facts": [
+      "Shreyas Iyer is an Indian cricketer.",
+      "Shreyas Iyer is primarily a batsman.",
+      "Shreyas Iyer bats right-handed.",
+      "Shreyas Iyer has captained an IPL team.",
+      "Shreyas Iyer is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Devdutt Padikkal",
+    "player_id": "devdutt-padikkal",
+    "facts": [
+      "Devdutt Padikkal is an Indian cricketer.",
+      "Devdutt Padikkal is primarily a batsman.",
+      "Devdutt Padikkal usually opens the batting.",
+      "Devdutt Padikkal has played in the IPL.",
+      "Devdutt Padikkal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mayank Agarwal",
+    "player_id": "mayank-agarwal",
+    "facts": [
+      "Mayank Agarwal is an Indian cricketer.",
+      "Mayank Agarwal is primarily a batsman.",
+      "Mayank Agarwal usually opens the batting.",
+      "Mayank Agarwal has played in the IPL.",
+      "Mayank Agarwal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Lokesh Rahul",
+    "player_id": "lokesh-rahul",
+    "facts": [
+      "Lokesh Rahul is an Indian cricketer.",
+      "Lokesh Rahul is a wicketkeeper.",
+      "Lokesh Rahul usually opens the batting.",
+      "Lokesh Rahul has captained an IPL team.",
+      "Lokesh Rahul has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Manish Pandey",
+    "player_id": "manish-pandey",
+    "facts": [
+      "Manish Pandey is an Indian cricketer.",
+      "Manish Pandey is primarily a batsman.",
+      "Manish Pandey bats right-handed.",
+      "Manish Pandey has played in the IPL.",
+      "Manish Pandey is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Virender Sehwag",
+    "player_id": "virender-sehwag",
+    "facts": [
+      "Virender Sehwag is an Indian cricketer.",
+      "Virender Sehwag is known as an all-rounder.",
+      "Virender Sehwag usually opens the batting.",
+      "Virender Sehwag has played in the IPL.",
+      "Virender Sehwag is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Yusuf Pathan",
+    "player_id": "yusuf-pathan",
+    "facts": [
+      "Yusuf Pathan is an Indian cricketer.",
+      "Yusuf Pathan is known as an all-rounder.",
+      "Yusuf Pathan is a spin bowler.",
+      "Yusuf Pathan has won the IPL title.",
+      "Yusuf Pathan is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Irfan Pathan",
+    "player_id": "irfan-pathan",
+    "facts": [
+      "Irfan Pathan is an Indian cricketer.",
+      "Irfan Pathan is known as an all-rounder.",
+      "Irfan Pathan is a fast bowler.",
+      "Irfan Pathan has played in the IPL.",
+      "Irfan Pathan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Pragyan Ojha",
+    "player_id": "pragyan-ojha",
+    "facts": [
+      "Pragyan Ojha is an Indian cricketer.",
+      "Pragyan Ojha is primarily a bowler.",
+      "Pragyan Ojha is a spin bowler.",
+      "Pragyan Ojha has played in the IPL.",
+      "Pragyan Ojha is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "RP Singh",
+    "player_id": "rp-singh",
+    "facts": [
+      "RP Singh is an Indian cricketer.",
+      "RP Singh is primarily a bowler.",
+      "RP Singh is a fast bowler.",
+      "RP Singh has won the IPL title.",
+      "RP Singh is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ashish Nehra",
+    "player_id": "ashish-nehra",
+    "facts": [
+      "Ashish Nehra is an Indian cricketer.",
+      "Ashish Nehra is primarily a bowler.",
+      "Ashish Nehra is a fast bowler.",
+      "Ashish Nehra has played in the IPL.",
+      "Ashish Nehra is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Zaheer Khan",
+    "player_id": "zaheer-khan",
+    "facts": [
+      "Zaheer Khan is an Indian cricketer.",
+      "Zaheer Khan is primarily a bowler.",
+      "Zaheer Khan is a fast bowler.",
+      "Zaheer Khan has won the IPL title.",
+      "Zaheer Khan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Amit Mishra",
+    "player_id": "amit-mishra",
+    "facts": [
+      "Amit Mishra is an Indian cricketer.",
+      "Amit Mishra is known as an all-rounder.",
+      "Amit Mishra is a spin bowler.",
+      "Amit Mishra has played in the IPL.",
+      "Amit Mishra is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Piyush Chawla",
+    "player_id": "piyush-chawla",
+    "facts": [
+      "Piyush Chawla is an Indian cricketer.",
+      "Piyush Chawla is known as an all-rounder.",
+      "Piyush Chawla is a spin bowler.",
+      "Piyush Chawla has won the IPL title.",
+      "Piyush Chawla is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ajit Agarkar",
+    "player_id": "ajit-agarkar",
+    "facts": [
+      "Ajit Agarkar is an Indian cricketer.",
+      "Ajit Agarkar is known as an all-rounder.",
+      "Ajit Agarkar is a fast bowler.",
+      "Ajit Agarkar has played in the IPL.",
+      "Ajit Agarkar is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shane Bond",
+    "player_id": "shane-bond",
+    "facts": [
+      "Shane Bond is an overseas IPL player.",
+      "Shane Bond is primarily a bowler.",
+      "Shane Bond is a fast bowler.",
+      "Shane Bond has played in the IPL.",
+      "Shane Bond is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Brett Lee",
+    "player_id": "brett-lee",
+    "facts": [
+      "Brett Lee is an overseas IPL player.",
+      "Brett Lee is known as an all-rounder.",
+      "Brett Lee is a fast bowler.",
+      "Brett Lee has played in the IPL.",
+      "Brett Lee is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dale Steyn",
+    "player_id": "dale-steyn",
+    "facts": [
+      "Dale Steyn is an overseas IPL player.",
+      "Dale Steyn is primarily a bowler.",
+      "Dale Steyn is a fast bowler.",
+      "Dale Steyn has played in the IPL.",
+      "Dale Steyn is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Shaun Pollock",
+    "player_id": "shaun-pollock",
+    "facts": [
+      "Shaun Pollock is an overseas IPL player.",
+      "Shaun Pollock is known as an all-rounder.",
+      "Shaun Pollock bowls medium pace.",
+      "Shaun Pollock has played in the IPL.",
+      "Shaun Pollock is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Marlon Samuels",
+    "player_id": "marlon-samuels",
+    "facts": [
+      "Marlon Samuels is an overseas IPL player.",
+      "Marlon Samuels is known as an all-rounder.",
+      "Marlon Samuels is a spin bowler.",
+      "Marlon Samuels has played in the IPL.",
+      "Marlon Samuels is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Daniel Vettori",
+    "player_id": "daniel-vettori",
+    "facts": [
+      "Daniel Vettori is an overseas IPL player.",
+      "Daniel Vettori is known as an all-rounder.",
+      "Daniel Vettori is a spin bowler.",
+      "Daniel Vettori has played in the IPL.",
+      "Daniel Vettori is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Graeme Smith",
+    "player_id": "graeme-smith",
+    "facts": [
+      "Graeme Smith is an overseas IPL player.",
+      "Graeme Smith is primarily a batsman.",
+      "Graeme Smith usually opens the batting.",
+      "Graeme Smith has captained an IPL team.",
+      "Graeme Smith is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Andrew Symonds",
+    "player_id": "andrew-symonds",
+    "facts": [
+      "Andrew Symonds is an overseas IPL player.",
+      "Andrew Symonds is known as an all-rounder.",
+      "Andrew Symonds bats right-handed.",
+      "Andrew Symonds has played in the IPL.",
+      "Andrew Symonds is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Paul Symcox",
+    "player_id": "paul-symcox",
+    "facts": [
+      "Paul Symcox is an overseas IPL player.",
+      "Paul Symcox is known as an all-rounder.",
+      "Paul Symcox is a spin bowler.",
+      "Paul Symcox has played in the IPL.",
+      "Paul Symcox is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Yashpal Sharma",
+    "player_id": "yashpal-sharma",
+    "facts": [
+      "Yashpal Sharma is an Indian cricketer.",
+      "Yashpal Sharma is primarily a batsman.",
+      "Yashpal Sharma bats right-handed.",
+      "Yashpal Sharma has played in the IPL.",
+      "Yashpal Sharma is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Murali Kartik",
+    "player_id": "murali-kartik",
+    "facts": [
+      "Murali Kartik is an Indian cricketer.",
+      "Murali Kartik is known as an all-rounder.",
+      "Murali Kartik is a spin bowler.",
+      "Murali Kartik has played in the IPL.",
+      "Murali Kartik is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Parthiv Patel",
+    "player_id": "parthiv-patel",
+    "facts": [
+      "Parthiv Patel is an Indian cricketer.",
+      "Parthiv Patel is a wicketkeeper.",
+      "Parthiv Patel usually opens the batting.",
+      "Parthiv Patel has played in the IPL.",
+      "Parthiv Patel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Rohan Gavaskar",
+    "player_id": "rohan-gavaskar",
+    "facts": [
+      "Rohan Gavaskar is an Indian cricketer.",
+      "Rohan Gavaskar is known as an all-rounder.",
+      "Rohan Gavaskar bats left-handed.",
+      "Rohan Gavaskar has played in the IPL.",
+      "Rohan Gavaskar is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Deep Dasgupta",
+    "player_id": "deep-dasgupta",
+    "facts": [
+      "Deep Dasgupta is an Indian cricketer.",
+      "Deep Dasgupta is a wicketkeeper.",
+      "Deep Dasgupta bats right-handed.",
+      "Deep Dasgupta has played in the IPL.",
+      "Deep Dasgupta is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Brad Hodge",
+    "player_id": "brad-hodge",
+    "facts": [
+      "Brad Hodge is an overseas IPL player.",
+      "Brad Hodge is known as an all-rounder.",
+      "Brad Hodge bats right-handed.",
+      "Brad Hodge has played in the IPL.",
+      "Brad Hodge is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Matthew Hayden",
+    "player_id": "matthew-hayden",
+    "facts": [
+      "Matthew Hayden is an overseas IPL player.",
+      "Matthew Hayden is primarily a batsman.",
+      "Matthew Hayden usually opens the batting.",
+      "Matthew Hayden has played in the IPL.",
+      "Matthew Hayden is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Simon Katich",
+    "player_id": "simon-katich",
+    "facts": [
+      "Simon Katich is an overseas IPL player.",
+      "Simon Katich is known as an all-rounder.",
+      "Simon Katich bats left-handed.",
+      "Simon Katich has played in the IPL.",
+      "Simon Katich is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mark Boucher",
+    "player_id": "mark-boucher",
+    "facts": [
+      "Mark Boucher is an overseas IPL player.",
+      "Mark Boucher is a wicketkeeper.",
+      "Mark Boucher bats right-handed.",
+      "Mark Boucher has played in the IPL.",
+      "Mark Boucher is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sanath Jayasuriya",
+    "player_id": "sanath-jayasuriya",
+    "facts": [
+      "Sanath Jayasuriya is an overseas IPL player.",
+      "Sanath Jayasuriya is known as an all-rounder.",
+      "Sanath Jayasuriya is a spin bowler.",
+      "Sanath Jayasuriya has played in the IPL.",
+      "Sanath Jayasuriya is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Tillakaratne Dilshan",
+    "player_id": "tillakaratne-dilshan",
+    "facts": [
+      "Tillakaratne Dilshan is an overseas IPL player.",
+      "Tillakaratne Dilshan is known as an all-rounder.",
+      "Tillakaratne Dilshan usually opens the batting.",
+      "Tillakaratne Dilshan has played in the IPL.",
+      "Tillakaratne Dilshan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Kumar Sangakkara",
+    "player_id": "kumar-sangakkara",
+    "facts": [
+      "Kumar Sangakkara is an overseas IPL player.",
+      "Kumar Sangakkara is a wicketkeeper.",
+      "Kumar Sangakkara bats left-handed.",
+      "Kumar Sangakkara has played in the IPL.",
+      "Kumar Sangakkara is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mahela Jayawardene",
+    "player_id": "mahela-jayawardene",
+    "facts": [
+      "Mahela Jayawardene is an overseas IPL player.",
+      "Mahela Jayawardene is primarily a batsman.",
+      "Mahela Jayawardene bats right-handed.",
+      "Mahela Jayawardene has captained an IPL team.",
+      "Mahela Jayawardene is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Angelo Mathews",
+    "player_id": "angelo-mathews",
+    "facts": [
+      "Angelo Mathews is an overseas IPL player.",
+      "Angelo Mathews is known as an all-rounder.",
+      "Angelo Mathews bowls medium pace.",
+      "Angelo Mathews has played in the IPL.",
+      "Angelo Mathews is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Nuwan Kulasekara",
+    "player_id": "nuwan-kulasekara",
+    "facts": [
+      "Nuwan Kulasekara is an overseas IPL player.",
+      "Nuwan Kulasekara is known as an all-rounder.",
+      "Nuwan Kulasekara bowls medium pace.",
+      "Nuwan Kulasekara has played in the IPL.",
+      "Nuwan Kulasekara is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dinesh Chandimal",
+    "player_id": "dinesh-chandimal",
+    "facts": [
+      "Dinesh Chandimal is an overseas IPL player.",
+      "Dinesh Chandimal is a wicketkeeper.",
+      "Dinesh Chandimal bats right-handed.",
+      "Dinesh Chandimal has played in the IPL.",
+      "Dinesh Chandimal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Lasith Embuldeniya",
+    "player_id": "lasith-embuldeniya",
+    "facts": [
+      "Lasith Embuldeniya is an overseas IPL player.",
+      "Lasith Embuldeniya is primarily a batsman.",
+      "Lasith Embuldeniya is a spin bowler.",
+      "Lasith Embuldeniya has played in the IPL.",
+      "Lasith Embuldeniya is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dushmantha Chameera",
+    "player_id": "dushmantha-chameera",
+    "facts": [
+      "Dushmantha Chameera is an overseas IPL player.",
+      "Dushmantha Chameera is primarily a batsman.",
+      "Dushmantha Chameera is a fast bowler.",
+      "Dushmantha Chameera has played in the IPL.",
+      "Dushmantha Chameera is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Isuru Udana",
+    "player_id": "isuru-udana",
+    "facts": [
+      "Isuru Udana is an overseas IPL player.",
+      "Isuru Udana is known as an all-rounder.",
+      "Isuru Udana is a fast bowler.",
+      "Isuru Udana has played in the IPL.",
+      "Isuru Udana is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Azam Khan",
+    "player_id": "azam-khan",
+    "facts": [
+      "Azam Khan is an overseas IPL player.",
+      "Azam Khan is a wicketkeeper.",
+      "Azam Khan bats right-handed.",
+      "Azam Khan has played in the IPL.",
+      "Azam Khan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mitchell Starc",
+    "player_id": "mitchell-starc",
+    "facts": [
+      "Mitchell Starc is an overseas IPL player.",
+      "Mitchell Starc is primarily a bowler.",
+      "Mitchell Starc is a fast bowler.",
+      "Mitchell Starc has played in the IPL.",
+      "Mitchell Starc is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Josh Hazlewood",
+    "player_id": "josh-hazlewood",
+    "facts": [
+      "Josh Hazlewood is an overseas IPL player.",
+      "Josh Hazlewood is primarily a bowler.",
+      "Josh Hazlewood is a fast bowler.",
+      "Josh Hazlewood has played in the IPL.",
+      "Josh Hazlewood is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Cameron Green",
+    "player_id": "cameron-green",
+    "facts": [
+      "Cameron Green is an overseas IPL player.",
+      "Cameron Green is known as an all-rounder.",
+      "Cameron Green is a fast bowler.",
+      "Cameron Green has played in the IPL.",
+      "Cameron Green is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Travis Head",
+    "player_id": "travis-head",
+    "facts": [
+      "Travis Head is an overseas IPL player.",
+      "Travis Head is known as an all-rounder.",
+      "Travis Head usually opens the batting.",
+      "Travis Head has played in the IPL.",
+      "Travis Head is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "David Miller",
+    "player_id": "david-miller",
+    "facts": [
+      "David Miller is an overseas IPL player.",
+      "David Miller is primarily a batsman.",
+      "David Miller bats left-handed.",
+      "David Miller has played in the IPL.",
+      "David Miller is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Mark Wood",
+    "player_id": "mark-wood",
+    "facts": [
+      "Mark Wood is an overseas IPL player.",
+      "Mark Wood is primarily a bowler.",
+      "Mark Wood is a fast bowler.",
+      "Mark Wood has played in the IPL.",
+      "Mark Wood is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sam Curran",
+    "player_id": "sam-curran",
+    "facts": [
+      "Sam Curran is an overseas IPL player.",
+      "Sam Curran is known as an all-rounder.",
+      "Sam Curran is a fast bowler.",
+      "Sam Curran has played in the IPL.",
+      "Sam Curran is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Ben Stokes",
+    "player_id": "ben-stokes",
+    "facts": [
+      "Ben Stokes is an overseas IPL player.",
+      "Ben Stokes is known as an all-rounder.",
+      "Ben Stokes is a fast bowler.",
+      "Ben Stokes has played in the IPL.",
+      "Ben Stokes is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Jos Buttler",
+    "player_id": "jos-buttler",
+    "facts": [
+      "Jos Buttler is an overseas IPL player.",
+      "Jos Buttler is a wicketkeeper.",
+      "Jos Buttler usually opens the batting.",
+      "Jos Buttler has played in the IPL.",
+      "Jos Buttler has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Moeen Ali",
+    "player_id": "moeen-ali",
+    "facts": [
+      "Moeen Ali is an overseas IPL player.",
+      "Moeen Ali is known as an all-rounder.",
+      "Moeen Ali is a spin bowler.",
+      "Moeen Ali has won the IPL title.",
+      "Moeen Ali is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Jonny Bairstow",
+    "player_id": "jonny-bairstow",
+    "facts": [
+      "Jonny Bairstow is an overseas IPL player.",
+      "Jonny Bairstow is a wicketkeeper.",
+      "Jonny Bairstow usually opens the batting.",
+      "Jonny Bairstow has played in the IPL.",
+      "Jonny Bairstow is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Dawid Malan",
+    "player_id": "dawid-malan",
+    "facts": [
+      "Dawid Malan is an overseas IPL player.",
+      "Dawid Malan is primarily a batsman.",
+      "Dawid Malan bats right-handed.",
+      "Dawid Malan has played in the IPL.",
+      "Dawid Malan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shimron Hetmyer",
+    "player_id": "shimron-hetmyer",
+    "facts": [
+      "Shimron Hetmyer is an overseas IPL player.",
+      "Shimron Hetmyer is primarily a batsman.",
+      "Shimron Hetmyer bats left-handed.",
+      "Shimron Hetmyer has played in the IPL.",
+      "Shimron Hetmyer is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Jason Holder",
+    "player_id": "jason-holder",
+    "facts": [
+      "Jason Holder is an overseas IPL player.",
+      "Jason Holder is known as an all-rounder.",
+      "Jason Holder bowls medium pace.",
+      "Jason Holder has played in the IPL.",
+      "Jason Holder is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Obed McCoy",
+    "player_id": "obed-mccoy",
+    "facts": [
+      "Obed McCoy is an overseas IPL player.",
+      "Obed McCoy is primarily a batsman.",
+      "Obed McCoy is a fast bowler.",
+      "Obed McCoy has played in the IPL.",
+      "Obed McCoy is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Alzarri Joseph",
+    "player_id": "alzarri-joseph",
+    "facts": [
+      "Alzarri Joseph is an overseas IPL player.",
+      "Alzarri Joseph is primarily a batsman.",
+      "Alzarri Joseph is a fast bowler.",
+      "Alzarri Joseph has played in the IPL.",
+      "Alzarri Joseph is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Hayley Matthews",
+    "player_id": "hayley-matthews",
+    "facts": [
+      "Hayley Matthews is an overseas IPL player.",
+      "Hayley Matthews is known as an all-rounder.",
+      "Hayley Matthews is a spin bowler.",
+      "Hayley Matthews has played in the IPL.",
+      "Hayley Matthews is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Rilee Rossouw",
+    "player_id": "rilee-rossouw",
+    "facts": [
+      "Rilee Rossouw is an overseas IPL player.",
+      "Rilee Rossouw is primarily a batsman.",
+      "Rilee Rossouw bats left-handed.",
+      "Rilee Rossouw has played in the IPL.",
+      "Rilee Rossouw is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Aiden Markram",
+    "player_id": "aiden-markram",
+    "facts": [
+      "Aiden Markram is an overseas IPL player.",
+      "Aiden Markram is known as an all-rounder.",
+      "Aiden Markram is a spin bowler.",
+      "Aiden Markram has captained an IPL team.",
+      "Aiden Markram is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Quinton de Kock",
+    "player_id": "quinton-de-kock",
+    "facts": [
+      "Quinton de Kock is an overseas IPL player.",
+      "Quinton de Kock is a wicketkeeper.",
+      "Quinton de Kock usually opens the batting.",
+      "Quinton de Kock has won the IPL title.",
+      "Quinton de Kock is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Lutho Sipamla",
+    "player_id": "lutho-sipamla",
+    "facts": [
+      "Lutho Sipamla is an overseas IPL player.",
+      "Lutho Sipamla is primarily a batsman.",
+      "Lutho Sipamla is a fast bowler.",
+      "Lutho Sipamla has played in the IPL.",
+      "Lutho Sipamla is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Arshad Iqbal",
+    "player_id": "arshad-iqbal",
+    "facts": [
+      "Arshad Iqbal is an overseas IPL player.",
+      "Arshad Iqbal is primarily a batsman.",
+      "Arshad Iqbal is a fast bowler.",
+      "Arshad Iqbal has played in the IPL.",
+      "Arshad Iqbal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dasun Shanaka",
+    "player_id": "dasun-shanaka",
+    "facts": [
+      "Dasun Shanaka is an overseas IPL player.",
+      "Dasun Shanaka is known as an all-rounder.",
+      "Dasun Shanaka is a fast bowler.",
+      "Dasun Shanaka has played in the IPL.",
+      "Dasun Shanaka is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Wanindu Hasaranga",
+    "player_id": "wanindu-hasaranga",
+    "facts": [
+      "Wanindu Hasaranga is an overseas IPL player.",
+      "Wanindu Hasaranga is known as an all-rounder.",
+      "Wanindu Hasaranga is a spin bowler.",
+      "Wanindu Hasaranga has played in the IPL.",
+      "Wanindu Hasaranga is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Chamika Karunaratne",
+    "player_id": "chamika-karunaratne",
+    "facts": [
+      "Chamika Karunaratne is an overseas IPL player.",
+      "Chamika Karunaratne is known as an all-rounder.",
+      "Chamika Karunaratne is a fast bowler.",
+      "Chamika Karunaratne has played in the IPL.",
+      "Chamika Karunaratne is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Pathum Nissanka",
+    "player_id": "pathum-nissanka",
+    "facts": [
+      "Pathum Nissanka is an overseas IPL player.",
+      "Pathum Nissanka is primarily a batsman.",
+      "Pathum Nissanka usually opens the batting.",
+      "Pathum Nissanka has played in the IPL.",
+      "Pathum Nissanka is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohammad Hafeez",
+    "player_id": "mohammad-hafeez",
+    "facts": [
+      "Mohammad Hafeez is an overseas IPL player.",
+      "Mohammad Hafeez is known as an all-rounder.",
+      "Mohammad Hafeez is a spin bowler.",
+      "Mohammad Hafeez has played in the IPL.",
+      "Mohammad Hafeez is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shoaib Malik",
+    "player_id": "shoaib-malik",
+    "facts": [
+      "Shoaib Malik is an overseas IPL player.",
+      "Shoaib Malik is known as an all-rounder.",
+      "Shoaib Malik is a spin bowler.",
+      "Shoaib Malik has played in the IPL.",
+      "Shoaib Malik is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Gerald Coetzee",
+    "player_id": "gerald-coetzee",
+    "facts": [
+      "Gerald Coetzee is an overseas IPL player.",
+      "Gerald Coetzee is primarily a batsman.",
+      "Gerald Coetzee is a fast bowler.",
+      "Gerald Coetzee has played in the IPL.",
+      "Gerald Coetzee is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohit Sharma",
+    "player_id": "mohit-sharma",
+    "facts": [
+      "Mohit Sharma is an Indian cricketer.",
+      "Mohit Sharma is primarily a bowler.",
+      "Mohit Sharma bowls medium pace.",
+      "Mohit Sharma has won the IPL title.",
+      "Mohit Sharma is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Jaydev Unadkat",
+    "player_id": "jaydev-unadkat",
+    "facts": [
+      "Jaydev Unadkat is an Indian cricketer.",
+      "Jaydev Unadkat is primarily a bowler.",
+      "Jaydev Unadkat is a fast bowler.",
+      "Jaydev Unadkat has played in the IPL.",
+      "Jaydev Unadkat has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Rahul Chahar",
+    "player_id": "rahul-chahar",
+    "facts": [
+      "Rahul Chahar is an Indian cricketer.",
+      "Rahul Chahar is primarily a bowler.",
+      "Rahul Chahar is a spin bowler.",
+      "Rahul Chahar has played in the IPL.",
+      "Rahul Chahar is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Khaleel Ahmed",
+    "player_id": "khaleel-ahmed",
+    "facts": [
+      "Khaleel Ahmed is an Indian cricketer.",
+      "Khaleel Ahmed is primarily a bowler.",
+      "Khaleel Ahmed is a fast bowler.",
+      "Khaleel Ahmed has played in the IPL.",
+      "Khaleel Ahmed is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Krishnappa Gowtham",
+    "player_id": "krishnappa-gowtham",
+    "facts": [
+      "Krishnappa Gowtham is an Indian cricketer.",
+      "Krishnappa Gowtham is known as an all-rounder.",
+      "Krishnappa Gowtham is a spin bowler.",
+      "Krishnappa Gowtham has played in the IPL.",
+      "Krishnappa Gowtham is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "R Sai Kishore",
+    "player_id": "r-sai-kishore",
+    "facts": [
+      "R Sai Kishore is an Indian cricketer.",
+      "R Sai Kishore is primarily a batsman.",
+      "R Sai Kishore is a spin bowler.",
+      "R Sai Kishore has won the IPL title.",
+      "R Sai Kishore is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shivam Dube",
+    "player_id": "shivam-dube",
+    "facts": [
+      "Shivam Dube is an Indian cricketer.",
+      "Shivam Dube is known as an all-rounder.",
+      "Shivam Dube is a fast bowler.",
+      "Shivam Dube has won the IPL title.",
+      "Shivam Dube is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Anuj Rawat",
+    "player_id": "anuj-rawat",
+    "facts": [
+      "Anuj Rawat is an Indian cricketer.",
+      "Anuj Rawat is a wicketkeeper.",
+      "Anuj Rawat usually opens the batting.",
+      "Anuj Rawat has played in the IPL.",
+      "Anuj Rawat is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Akash Madhwal",
+    "player_id": "akash-madhwal",
+    "facts": [
+      "Akash Madhwal is an Indian cricketer.",
+      "Akash Madhwal is primarily a batsman.",
+      "Akash Madhwal is a fast bowler.",
+      "Akash Madhwal has played in the IPL.",
+      "Akash Madhwal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Pavan Deshpande",
+    "player_id": "pavan-deshpande",
+    "facts": [
+      "Pavan Deshpande is an Indian cricketer.",
+      "Pavan Deshpande is known as an all-rounder.",
+      "Pavan Deshpande is a spin bowler.",
+      "Pavan Deshpande has played in the IPL.",
+      "Pavan Deshpande is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Kulwant Khejroliya",
+    "player_id": "kulwant-khejroliya",
+    "facts": [
+      "Kulwant Khejroliya is an Indian cricketer.",
+      "Kulwant Khejroliya is primarily a batsman.",
+      "Kulwant Khejroliya is a fast bowler.",
+      "Kulwant Khejroliya has played in the IPL.",
+      "Kulwant Khejroliya is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Finn Allen",
+    "player_id": "finn-allen",
+    "facts": [
+      "Finn Allen is an overseas IPL player.",
+      "Finn Allen is primarily a batsman.",
+      "Finn Allen usually opens the batting.",
+      "Finn Allen has played in the IPL.",
+      "Finn Allen is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Rachin Ravindra",
+    "player_id": "rachin-ravindra",
+    "facts": [
+      "Rachin Ravindra is an overseas IPL player.",
+      "Rachin Ravindra is known as an all-rounder.",
+      "Rachin Ravindra is a spin bowler.",
+      "Rachin Ravindra has played in the IPL.",
+      "Rachin Ravindra is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mitchell Santner",
+    "player_id": "mitchell-santner",
+    "facts": [
+      "Mitchell Santner is an overseas IPL player.",
+      "Mitchell Santner is known as an all-rounder.",
+      "Mitchell Santner is a spin bowler.",
+      "Mitchell Santner has won the IPL title.",
+      "Mitchell Santner is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Lockie Ferguson",
+    "player_id": "lockie-ferguson",
+    "facts": [
+      "Lockie Ferguson is an overseas IPL player.",
+      "Lockie Ferguson is primarily a batsman.",
+      "Lockie Ferguson is a fast bowler.",
+      "Lockie Ferguson has won the IPL title.",
+      "Lockie Ferguson is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ish Sodhi",
+    "player_id": "ish-sodhi",
+    "facts": [
+      "Ish Sodhi is an overseas IPL player.",
+      "Ish Sodhi is primarily a batsman.",
+      "Ish Sodhi is a spin bowler.",
+      "Ish Sodhi has played in the IPL.",
+      "Ish Sodhi is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohammad Nabi",
+    "player_id": "mohammad-nabi",
+    "facts": [
+      "Mohammad Nabi is an overseas IPL player.",
+      "Mohammad Nabi is known as an all-rounder.",
+      "Mohammad Nabi is a spin bowler.",
+      "Mohammad Nabi has played in the IPL.",
+      "Mohammad Nabi is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Fazalhaq Farooqi",
+    "player_id": "fazalhaq-farooqi",
+    "facts": [
+      "Fazalhaq Farooqi is an overseas IPL player.",
+      "Fazalhaq Farooqi is primarily a batsman.",
+      "Fazalhaq Farooqi is a fast bowler.",
+      "Fazalhaq Farooqi has played in the IPL.",
+      "Fazalhaq Farooqi is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Naveen-ul-Haq",
+    "player_id": "naveen-ul-haq",
+    "facts": [
+      "Naveen-ul-Haq is an overseas IPL player.",
+      "Naveen-ul-Haq is primarily a batsman.",
+      "Naveen-ul-Haq is a fast bowler.",
+      "Naveen-ul-Haq has played in the IPL.",
+      "Naveen-ul-Haq is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Gulbadin Naib",
+    "player_id": "gulbadin-naib",
+    "facts": [
+      "Gulbadin Naib is an overseas IPL player.",
+      "Gulbadin Naib is known as an all-rounder.",
+      "Gulbadin Naib is a fast bowler.",
+      "Gulbadin Naib has played in the IPL.",
+      "Gulbadin Naib is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mujeeb Ur Rahman",
+    "player_id": "mujeeb-ur-rahman",
+    "facts": [
+      "Mujeeb Ur Rahman is an overseas IPL player.",
+      "Mujeeb Ur Rahman is primarily a batsman.",
+      "Mujeeb Ur Rahman is a spin bowler.",
+      "Mujeeb Ur Rahman has played in the IPL.",
+      "Mujeeb Ur Rahman is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sikandar Raza",
+    "player_id": "sikandar-raza",
+    "facts": [
+      "Sikandar Raza is an overseas IPL player.",
+      "Sikandar Raza is known as an all-rounder.",
+      "Sikandar Raza is a spin bowler.",
+      "Sikandar Raza has played in the IPL.",
+      "Sikandar Raza is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Blessing Muzarabani",
+    "player_id": "blessing-muzarabani",
+    "facts": [
+      "Blessing Muzarabani is an overseas IPL player.",
+      "Blessing Muzarabani is primarily a batsman.",
+      "Blessing Muzarabani is a fast bowler.",
+      "Blessing Muzarabani has played in the IPL.",
+      "Blessing Muzarabani is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Virat Singh",
+    "player_id": "virat-singh",
+    "facts": [
+      "Virat Singh is an Indian cricketer.",
+      "Virat Singh is primarily a batsman.",
+      "Virat Singh bats left-handed.",
+      "Virat Singh has played in the IPL.",
+      "Virat Singh is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Tilak Varma",
+    "player_id": "tilak-varma",
+    "facts": [
+      "Tilak Varma is an Indian cricketer.",
+      "Tilak Varma is primarily a batsman.",
+      "Tilak Varma bats left-handed.",
+      "Tilak Varma has played in the IPL.",
+      "Tilak Varma is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Jitesh Sharma",
+    "player_id": "jitesh-sharma",
+    "facts": [
+      "Jitesh Sharma is an Indian cricketer.",
+      "Jitesh Sharma is a wicketkeeper.",
+      "Jitesh Sharma bats right-handed.",
+      "Jitesh Sharma has played in the IPL.",
+      "Jitesh Sharma is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Rinku Singh",
+    "player_id": "rinku-singh",
+    "facts": [
+      "Rinku Singh is an Indian cricketer.",
+      "Rinku Singh is primarily a batsman.",
+      "Rinku Singh bats right-handed.",
+      "Rinku Singh has played in the IPL.",
+      "Rinku Singh is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Yashasvi Jaiswal",
+    "player_id": "yashasvi-jaiswal",
+    "facts": [
+      "Yashasvi Jaiswal is an Indian cricketer.",
+      "Yashasvi Jaiswal is primarily a batsman.",
+      "Yashasvi Jaiswal usually opens the batting.",
+      "Yashasvi Jaiswal has played in the IPL.",
+      "Yashasvi Jaiswal has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Dhruv Jurel",
+    "player_id": "dhruv-jurel",
+    "facts": [
+      "Dhruv Jurel is an Indian cricketer.",
+      "Dhruv Jurel is a wicketkeeper.",
+      "Dhruv Jurel bats right-handed.",
+      "Dhruv Jurel has played in the IPL.",
+      "Dhruv Jurel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Riyan Parag",
+    "player_id": "riyan-parag",
+    "facts": [
+      "Riyan Parag is an Indian cricketer.",
+      "Riyan Parag is known as an all-rounder.",
+      "Riyan Parag is a spin bowler.",
+      "Riyan Parag has played in the IPL.",
+      "Riyan Parag is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Mohammed Siraj",
+    "player_id": "mohammed-siraj",
+    "facts": [
+      "Mohammed Siraj is an Indian cricketer.",
+      "Mohammed Siraj is primarily a bowler.",
+      "Mohammed Siraj is a fast bowler.",
+      "Mohammed Siraj has played in the IPL.",
+      "Mohammed Siraj is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Umesh Yadav",
+    "player_id": "umesh-yadav",
+    "facts": [
+      "Umesh Yadav is an Indian cricketer.",
+      "Umesh Yadav is primarily a bowler.",
+      "Umesh Yadav is a fast bowler.",
+      "Umesh Yadav has played in the IPL.",
+      "Umesh Yadav is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Rishi Dhawan",
+    "player_id": "rishi-dhawan",
+    "facts": [
+      "Rishi Dhawan is an Indian cricketer.",
+      "Rishi Dhawan is known as an all-rounder.",
+      "Rishi Dhawan is a fast bowler.",
+      "Rishi Dhawan has played in the IPL.",
+      "Rishi Dhawan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Paul Valthaty",
+    "player_id": "paul-valthaty",
+    "facts": [
+      "Paul Valthaty is an Indian cricketer.",
+      "Paul Valthaty is primarily a batsman.",
+      "Paul Valthaty usually opens the batting.",
+      "Paul Valthaty has played in the IPL.",
+      "Paul Valthaty is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Manan Vohra",
+    "player_id": "manan-vohra",
+    "facts": [
+      "Manan Vohra is an Indian cricketer.",
+      "Manan Vohra is primarily a batsman.",
+      "Manan Vohra usually opens the batting.",
+      "Manan Vohra has played in the IPL.",
+      "Manan Vohra is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Iqbal Abdulla",
+    "player_id": "iqbal-abdulla",
+    "facts": [
+      "Iqbal Abdulla is an Indian cricketer.",
+      "Iqbal Abdulla is known as an all-rounder.",
+      "Iqbal Abdulla is a spin bowler.",
+      "Iqbal Abdulla has played in the IPL.",
+      "Iqbal Abdulla is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "JP Duminy",
+    "player_id": "jp-duminy",
+    "facts": [
+      "JP Duminy is an overseas IPL player.",
+      "JP Duminy is known as an all-rounder.",
+      "JP Duminy is a spin bowler.",
+      "JP Duminy has played in the IPL.",
+      "JP Duminy is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Imran Tahir",
+    "player_id": "imran-tahir",
+    "facts": [
+      "Imran Tahir is an overseas IPL player.",
+      "Imran Tahir is primarily a bowler.",
+      "Imran Tahir is a spin bowler.",
+      "Imran Tahir has won the IPL title.",
+      "Imran Tahir has won the Purple Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Chris Morris",
+    "player_id": "chris-morris",
+    "facts": [
+      "Chris Morris is an overseas IPL player.",
+      "Chris Morris is known as an all-rounder.",
+      "Chris Morris is a fast bowler.",
+      "Chris Morris has played in the IPL.",
+      "Chris Morris is known as a death overs specialist."
+    ]
+  },
+  {
+    "player_name": "Tabraiz Shamsi",
+    "player_id": "tabraiz-shamsi",
+    "facts": [
+      "Tabraiz Shamsi is an overseas IPL player.",
+      "Tabraiz Shamsi is primarily a batsman.",
+      "Tabraiz Shamsi is a spin bowler.",
+      "Tabraiz Shamsi has played in the IPL.",
+      "Tabraiz Shamsi is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Nandre Burger",
+    "player_id": "nandre-burger",
+    "facts": [
+      "Nandre Burger is an overseas IPL player.",
+      "Nandre Burger is primarily a batsman.",
+      "Nandre Burger is a fast bowler.",
+      "Nandre Burger has played in the IPL.",
+      "Nandre Burger is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Tom Curran",
+    "player_id": "tom-curran",
+    "facts": [
+      "Tom Curran is an overseas IPL player.",
+      "Tom Curran is known as an all-rounder.",
+      "Tom Curran is a fast bowler.",
+      "Tom Curran has played in the IPL.",
+      "Tom Curran is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Alex Hales",
+    "player_id": "alex-hales",
+    "facts": [
+      "Alex Hales is an overseas IPL player.",
+      "Alex Hales is primarily a batsman.",
+      "Alex Hales usually opens the batting.",
+      "Alex Hales has played in the IPL.",
+      "Alex Hales is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Jason Roy",
+    "player_id": "jason-roy",
+    "facts": [
+      "Jason Roy is an overseas IPL player.",
+      "Jason Roy is primarily a batsman.",
+      "Jason Roy usually opens the batting.",
+      "Jason Roy has played in the IPL.",
+      "Jason Roy is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Phil Salt",
+    "player_id": "phil-salt",
+    "facts": [
+      "Phil Salt is an overseas IPL player.",
+      "Phil Salt is a wicketkeeper.",
+      "Phil Salt usually opens the batting.",
+      "Phil Salt has played in the IPL.",
+      "Phil Salt is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Harry Brook",
+    "player_id": "harry-brook",
+    "facts": [
+      "Harry Brook is an overseas IPL player.",
+      "Harry Brook is primarily a batsman.",
+      "Harry Brook bats right-handed.",
+      "Harry Brook has played in the IPL.",
+      "Harry Brook is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Adam Lyth",
+    "player_id": "adam-lyth",
+    "facts": [
+      "Adam Lyth is an overseas IPL player.",
+      "Adam Lyth is primarily a batsman.",
+      "Adam Lyth bats left-handed.",
+      "Adam Lyth has played in the IPL.",
+      "Adam Lyth is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohammad Kaif",
+    "player_id": "mohammad-kaif",
+    "facts": [
+      "Mohammad Kaif is an Indian cricketer.",
+      "Mohammad Kaif is known as an all-rounder.",
+      "Mohammad Kaif bats right-handed.",
+      "Mohammad Kaif has played in the IPL.",
+      "Mohammad Kaif is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Vinay Kumar",
+    "player_id": "vinay-kumar",
+    "facts": [
+      "Vinay Kumar is an Indian cricketer.",
+      "Vinay Kumar is known as an all-rounder.",
+      "Vinay Kumar bowls medium pace.",
+      "Vinay Kumar has played in the IPL.",
+      "Vinay Kumar is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohit Ahlawat",
+    "player_id": "mohit-ahlawat",
+    "facts": [
+      "Mohit Ahlawat is an Indian cricketer.",
+      "Mohit Ahlawat is primarily a batsman.",
+      "Mohit Ahlawat usually opens the batting.",
+      "Mohit Ahlawat has played in the IPL.",
+      "Mohit Ahlawat is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ashok Dinda",
+    "player_id": "ashok-dinda",
+    "facts": [
+      "Ashok Dinda is an Indian cricketer.",
+      "Ashok Dinda is primarily a batsman.",
+      "Ashok Dinda is a fast bowler.",
+      "Ashok Dinda has played in the IPL.",
+      "Ashok Dinda is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Laxmipathy Balaji",
+    "player_id": "laxmipathy-balaji",
+    "facts": [
+      "Laxmipathy Balaji is an Indian cricketer.",
+      "Laxmipathy Balaji is primarily a batsman.",
+      "Laxmipathy Balaji bowls medium pace.",
+      "Laxmipathy Balaji has played in the IPL.",
+      "Laxmipathy Balaji is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Fidel Edwards",
+    "player_id": "fidel-edwards",
+    "facts": [
+      "Fidel Edwards is an overseas IPL player.",
+      "Fidel Edwards is primarily a batsman.",
+      "Fidel Edwards is a fast bowler.",
+      "Fidel Edwards has played in the IPL.",
+      "Fidel Edwards is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ravi Rampaul",
+    "player_id": "ravi-rampaul",
+    "facts": [
+      "Ravi Rampaul is an overseas IPL player.",
+      "Ravi Rampaul is known as an all-rounder.",
+      "Ravi Rampaul bowls medium pace.",
+      "Ravi Rampaul has played in the IPL.",
+      "Ravi Rampaul is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Lendl Simmons",
+    "player_id": "lendl-simmons",
+    "facts": [
+      "Lendl Simmons is an overseas IPL player.",
+      "Lendl Simmons is known as an all-rounder.",
+      "Lendl Simmons usually opens the batting.",
+      "Lendl Simmons has won the IPL title.",
+      "Lendl Simmons is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Chadwick Walton",
+    "player_id": "chadwick-walton",
+    "facts": [
+      "Chadwick Walton is an overseas IPL player.",
+      "Chadwick Walton is a wicketkeeper.",
+      "Chadwick Walton bats right-handed.",
+      "Chadwick Walton has played in the IPL.",
+      "Chadwick Walton is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Asela Gunaratne",
+    "player_id": "asela-gunaratne",
+    "facts": [
+      "Asela Gunaratne is an overseas IPL player.",
+      "Asela Gunaratne is known as an all-rounder.",
+      "Asela Gunaratne bats right-handed.",
+      "Asela Gunaratne has played in the IPL.",
+      "Asela Gunaratne is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Suranga Lakmal",
+    "player_id": "suranga-lakmal",
+    "facts": [
+      "Suranga Lakmal is an overseas IPL player.",
+      "Suranga Lakmal is primarily a batsman.",
+      "Suranga Lakmal bowls medium pace.",
+      "Suranga Lakmal has played in the IPL.",
+      "Suranga Lakmal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Lahiru Kumara",
+    "player_id": "lahiru-kumara",
+    "facts": [
+      "Lahiru Kumara is an overseas IPL player.",
+      "Lahiru Kumara is primarily a batsman.",
+      "Lahiru Kumara is a fast bowler.",
+      "Lahiru Kumara has played in the IPL.",
+      "Lahiru Kumara is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Bhanuka Rajapaksa",
+    "player_id": "bhanuka-rajapaksa",
+    "facts": [
+      "Bhanuka Rajapaksa is an overseas IPL player.",
+      "Bhanuka Rajapaksa is primarily a batsman.",
+      "Bhanuka Rajapaksa bats left-handed.",
+      "Bhanuka Rajapaksa has played in the IPL.",
+      "Bhanuka Rajapaksa is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Charith Asalanka",
+    "player_id": "charith-asalanka",
+    "facts": [
+      "Charith Asalanka is an overseas IPL player.",
+      "Charith Asalanka is known as an all-rounder.",
+      "Charith Asalanka bats left-handed.",
+      "Charith Asalanka has played in the IPL.",
+      "Charith Asalanka is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Kusal Perera",
+    "player_id": "kusal-perera",
+    "facts": [
+      "Kusal Perera is an overseas IPL player.",
+      "Kusal Perera is a wicketkeeper.",
+      "Kusal Perera usually opens the batting.",
+      "Kusal Perera has played in the IPL.",
+      "Kusal Perera is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Akila Dananjaya",
+    "player_id": "akila-dananjaya",
+    "facts": [
+      "Akila Dananjaya is an overseas IPL player.",
+      "Akila Dananjaya is primarily a batsman.",
+      "Akila Dananjaya is a spin bowler.",
+      "Akila Dananjaya has played in the IPL.",
+      "Akila Dananjaya is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Shakib Al Hasan",
+    "player_id": "shakib-al-hasan",
+    "facts": [
+      "Shakib Al Hasan is an overseas IPL player.",
+      "Shakib Al Hasan is known as an all-rounder.",
+      "Shakib Al Hasan is a spin bowler.",
+      "Shakib Al Hasan has played in the IPL.",
+      "Shakib Al Hasan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mustafizur Rahman",
+    "player_id": "mustafizur-rahman",
+    "facts": [
+      "Mustafizur Rahman is an overseas IPL player.",
+      "Mustafizur Rahman is primarily a batsman.",
+      "Mustafizur Rahman bowls medium pace.",
+      "Mustafizur Rahman has played in the IPL.",
+      "Mustafizur Rahman is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Tamim Iqbal",
+    "player_id": "tamim-iqbal",
+    "facts": [
+      "Tamim Iqbal is an overseas IPL player.",
+      "Tamim Iqbal is primarily a batsman.",
+      "Tamim Iqbal usually opens the batting.",
+      "Tamim Iqbal has played in the IPL.",
+      "Tamim Iqbal is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mahmudullah",
+    "player_id": "mahmudullah",
+    "facts": [
+      "Mahmudullah is an overseas IPL player.",
+      "Mahmudullah is known as an all-rounder.",
+      "Mahmudullah bats right-handed.",
+      "Mahmudullah has played in the IPL.",
+      "Mahmudullah is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mashrafe Mortaza",
+    "player_id": "mashrafe-mortaza",
+    "facts": [
+      "Mashrafe Mortaza is an overseas IPL player.",
+      "Mashrafe Mortaza is known as an all-rounder.",
+      "Mashrafe Mortaza bowls medium pace.",
+      "Mashrafe Mortaza has played in the IPL.",
+      "Mashrafe Mortaza is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sam Billings",
+    "player_id": "sam-billings",
+    "facts": [
+      "Sam Billings is an overseas IPL player.",
+      "Sam Billings is a wicketkeeper.",
+      "Sam Billings bats right-handed.",
+      "Sam Billings has played in the IPL.",
+      "Sam Billings is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Heinrich Klaasen",
+    "player_id": "heinrich-klaasen",
+    "facts": [
+      "Heinrich Klaasen is an overseas IPL player.",
+      "Heinrich Klaasen is a wicketkeeper.",
+      "Heinrich Klaasen bats right-handed.",
+      "Heinrich Klaasen has played in the IPL.",
+      "Heinrich Klaasen has won the Orange Cap in IPL."
+    ]
+  },
+  {
+    "player_name": "Marco Jansen",
+    "player_id": "marco-jansen",
+    "facts": [
+      "Marco Jansen is an overseas IPL player.",
+      "Marco Jansen is known as an all-rounder.",
+      "Marco Jansen is a fast bowler.",
+      "Marco Jansen has played in the IPL.",
+      "Marco Jansen is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Haris Rauf",
+    "player_id": "haris-rauf",
+    "facts": [
+      "Haris Rauf is an overseas IPL player.",
+      "Haris Rauf is primarily a batsman.",
+      "Haris Rauf is a fast bowler.",
+      "Haris Rauf has played in the IPL.",
+      "Haris Rauf is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Babar Azam",
+    "player_id": "babar-azam",
+    "facts": [
+      "Babar Azam is an overseas IPL player.",
+      "Babar Azam is primarily a batsman.",
+      "Babar Azam usually opens the batting.",
+      "Babar Azam has played in the IPL.",
+      "Babar Azam is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Fakhar Zaman",
+    "player_id": "fakhar-zaman",
+    "facts": [
+      "Fakhar Zaman is an overseas IPL player.",
+      "Fakhar Zaman is primarily a batsman.",
+      "Fakhar Zaman usually opens the batting.",
+      "Fakhar Zaman has played in the IPL.",
+      "Fakhar Zaman is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Rohail Nazir",
+    "player_id": "rohail-nazir",
+    "facts": [
+      "Rohail Nazir is an overseas IPL player.",
+      "Rohail Nazir is a wicketkeeper.",
+      "Rohail Nazir bats right-handed.",
+      "Rohail Nazir has played in the IPL.",
+      "Rohail Nazir is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Colin Munro",
+    "player_id": "colin-munro",
+    "facts": [
+      "Colin Munro is an overseas IPL player.",
+      "Colin Munro is primarily a batsman.",
+      "Colin Munro usually opens the batting.",
+      "Colin Munro has played in the IPL.",
+      "Colin Munro is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Ross Taylor",
+    "player_id": "ross-taylor",
+    "facts": [
+      "Ross Taylor is an overseas IPL player.",
+      "Ross Taylor is known as an all-rounder.",
+      "Ross Taylor bats right-handed.",
+      "Ross Taylor has played in the IPL.",
+      "Ross Taylor is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Martin Guptill",
+    "player_id": "martin-guptill",
+    "facts": [
+      "Martin Guptill is an overseas IPL player.",
+      "Martin Guptill is primarily a batsman.",
+      "Martin Guptill usually opens the batting.",
+      "Martin Guptill has played in the IPL.",
+      "Martin Guptill is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Adam Milne",
+    "player_id": "adam-milne",
+    "facts": [
+      "Adam Milne is an overseas IPL player.",
+      "Adam Milne is primarily a batsman.",
+      "Adam Milne is a fast bowler.",
+      "Adam Milne has played in the IPL.",
+      "Adam Milne is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "James Neesham",
+    "player_id": "james-neesham",
+    "facts": [
+      "James Neesham is an overseas IPL player.",
+      "James Neesham is known as an all-rounder.",
+      "James Neesham is a fast bowler.",
+      "James Neesham has played in the IPL.",
+      "James Neesham is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Glenn Maxwell",
+    "player_id": "glenn-maxwell",
+    "facts": [
+      "Glenn Maxwell is an overseas IPL player.",
+      "Glenn Maxwell is known as an all-rounder.",
+      "Glenn Maxwell is a spin bowler.",
+      "Glenn Maxwell has played in the IPL.",
+      "Glenn Maxwell is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Steven Smith",
+    "player_id": "steven-smith",
+    "facts": [
+      "Steven Smith is an overseas IPL player.",
+      "Steven Smith is known as an all-rounder.",
+      "Steven Smith bats right-handed.",
+      "Steven Smith has played in the IPL.",
+      "Steven Smith is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Marcus Stoinis",
+    "player_id": "marcus-stoinis",
+    "facts": [
+      "Marcus Stoinis is an overseas IPL player.",
+      "Marcus Stoinis is known as an all-rounder.",
+      "Marcus Stoinis is a fast bowler.",
+      "Marcus Stoinis has played in the IPL.",
+      "Marcus Stoinis is famous for hitting big sixes."
+    ]
+  },
+  {
+    "player_name": "Ashton Turner",
+    "player_id": "ashton-turner",
+    "facts": [
+      "Ashton Turner is an overseas IPL player.",
+      "Ashton Turner is known as an all-rounder.",
+      "Ashton Turner bats right-handed.",
+      "Ashton Turner has played in the IPL.",
+      "Ashton Turner is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Matthew Short",
+    "player_id": "matthew-short",
+    "facts": [
+      "Matthew Short is an overseas IPL player.",
+      "Matthew Short is known as an all-rounder.",
+      "Matthew Short usually opens the batting.",
+      "Matthew Short has played in the IPL.",
+      "Matthew Short is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ryan ten Doeschate",
+    "player_id": "ryan-ten-doeschate",
+    "facts": [
+      "Ryan ten Doeschate is an overseas IPL player.",
+      "Ryan ten Doeschate is known as an all-rounder.",
+      "Ryan ten Doeschate bats right-handed.",
+      "Ryan ten Doeschate has played in the IPL.",
+      "Ryan ten Doeschate is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Devendra Bishoo",
+    "player_id": "devendra-bishoo",
+    "facts": [
+      "Devendra Bishoo is an overseas IPL player.",
+      "Devendra Bishoo is primarily a batsman.",
+      "Devendra Bishoo is a spin bowler.",
+      "Devendra Bishoo has played in the IPL.",
+      "Devendra Bishoo is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Samuel Badree",
+    "player_id": "samuel-badree",
+    "facts": [
+      "Samuel Badree is an overseas IPL player.",
+      "Samuel Badree is primarily a batsman.",
+      "Samuel Badree is a spin bowler.",
+      "Samuel Badree has played in the IPL.",
+      "Samuel Badree is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Roston Chase",
+    "player_id": "roston-chase",
+    "facts": [
+      "Roston Chase is an overseas IPL player.",
+      "Roston Chase is known as an all-rounder.",
+      "Roston Chase bats right-handed.",
+      "Roston Chase has played in the IPL.",
+      "Roston Chase is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Sheldon Cottrell",
+    "player_id": "sheldon-cottrell",
+    "facts": [
+      "Sheldon Cottrell is an overseas IPL player.",
+      "Sheldon Cottrell is primarily a batsman.",
+      "Sheldon Cottrell is a fast bowler.",
+      "Sheldon Cottrell has played in the IPL.",
+      "Sheldon Cottrell is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Wayne Parnell",
+    "player_id": "wayne-parnell",
+    "facts": [
+      "Wayne Parnell is an overseas IPL player.",
+      "Wayne Parnell is known as an all-rounder.",
+      "Wayne Parnell is a fast bowler.",
+      "Wayne Parnell has played in the IPL.",
+      "Wayne Parnell is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ryan McLaren",
+    "player_id": "ryan-mclaren",
+    "facts": [
+      "Ryan McLaren is an overseas IPL player.",
+      "Ryan McLaren is known as an all-rounder.",
+      "Ryan McLaren bowls medium pace.",
+      "Ryan McLaren has played in the IPL.",
+      "Ryan McLaren is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Albie Morkel",
+    "player_id": "albie-morkel",
+    "facts": [
+      "Albie Morkel is an overseas IPL player.",
+      "Albie Morkel is known as an all-rounder.",
+      "Albie Morkel is a fast bowler.",
+      "Albie Morkel has played in the IPL.",
+      "Albie Morkel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Morne Morkel",
+    "player_id": "morne-morkel",
+    "facts": [
+      "Morne Morkel is an overseas IPL player.",
+      "Morne Morkel is primarily a batsman.",
+      "Morne Morkel is a fast bowler.",
+      "Morne Morkel has played in the IPL.",
+      "Morne Morkel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Charl Langeveldt",
+    "player_id": "charl-langeveldt",
+    "facts": [
+      "Charl Langeveldt is an overseas IPL player.",
+      "Charl Langeveldt is primarily a batsman.",
+      "Charl Langeveldt is a fast bowler.",
+      "Charl Langeveldt has played in the IPL.",
+      "Charl Langeveldt is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "James Faulkner",
+    "player_id": "james-faulkner",
+    "facts": [
+      "James Faulkner is an overseas IPL player.",
+      "James Faulkner is known as an all-rounder.",
+      "James Faulkner is a fast bowler.",
+      "James Faulkner has played in the IPL.",
+      "James Faulkner is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ben Cutting",
+    "player_id": "ben-cutting",
+    "facts": [
+      "Ben Cutting is an overseas IPL player.",
+      "Ben Cutting is known as an all-rounder.",
+      "Ben Cutting is a fast bowler.",
+      "Ben Cutting has played in the IPL.",
+      "Ben Cutting is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "George Bailey",
+    "player_id": "george-bailey",
+    "facts": [
+      "George Bailey is an overseas IPL player.",
+      "George Bailey is known as an all-rounder.",
+      "George Bailey bats right-handed.",
+      "George Bailey has played in the IPL.",
+      "George Bailey is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mitchell Johnson",
+    "player_id": "mitchell-johnson",
+    "facts": [
+      "Mitchell Johnson is an overseas IPL player.",
+      "Mitchell Johnson is known as an all-rounder.",
+      "Mitchell Johnson is a fast bowler.",
+      "Mitchell Johnson has won the IPL title.",
+      "Mitchell Johnson is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Peter Siddle",
+    "player_id": "peter-siddle",
+    "facts": [
+      "Peter Siddle is an overseas IPL player.",
+      "Peter Siddle is primarily a batsman.",
+      "Peter Siddle bowls medium pace.",
+      "Peter Siddle has played in the IPL.",
+      "Peter Siddle is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Daniel Christian",
+    "player_id": "daniel-christian",
+    "facts": [
+      "Daniel Christian is an overseas IPL player.",
+      "Daniel Christian is known as an all-rounder.",
+      "Daniel Christian is a fast bowler.",
+      "Daniel Christian has played in the IPL.",
+      "Daniel Christian is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mohammad Asif",
+    "player_id": "mohammad-asif",
+    "facts": [
+      "Mohammad Asif is an overseas IPL player.",
+      "Mohammad Asif is primarily a batsman.",
+      "Mohammad Asif bowls medium pace.",
+      "Mohammad Asif has played in the IPL.",
+      "Mohammad Asif is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Abdur Razzak",
+    "player_id": "abdur-razzak",
+    "facts": [
+      "Abdur Razzak is an overseas IPL player.",
+      "Abdur Razzak is primarily a batsman.",
+      "Abdur Razzak is a spin bowler.",
+      "Abdur Razzak has played in the IPL.",
+      "Abdur Razzak is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Herschelle Gibbs",
+    "player_id": "herschelle-gibbs",
+    "facts": [
+      "Herschelle Gibbs is an overseas IPL player.",
+      "Herschelle Gibbs is primarily a batsman.",
+      "Herschelle Gibbs usually opens the batting.",
+      "Herschelle Gibbs has played in the IPL.",
+      "Herschelle Gibbs is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "S. Sreesanth",
+    "player_id": "s-sreesanth",
+    "facts": [
+      "S. Sreesanth is an Indian cricketer.",
+      "S. Sreesanth is primarily a batsman.",
+      "S. Sreesanth is a fast bowler.",
+      "S. Sreesanth has won the IPL title.",
+      "S. Sreesanth is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Munaf Patel",
+    "player_id": "munaf-patel",
+    "facts": [
+      "Munaf Patel is an Indian cricketer.",
+      "Munaf Patel is primarily a batsman.",
+      "Munaf Patel bowls medium pace.",
+      "Munaf Patel has played in the IPL.",
+      "Munaf Patel is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Paul Collingwood",
+    "player_id": "paul-collingwood",
+    "facts": [
+      "Paul Collingwood is an overseas IPL player.",
+      "Paul Collingwood is known as an all-rounder.",
+      "Paul Collingwood bats right-handed.",
+      "Paul Collingwood has played in the IPL.",
+      "Paul Collingwood is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Dimitri Mascarenhas",
+    "player_id": "dimitri-mascarenhas",
+    "facts": [
+      "Dimitri Mascarenhas is an overseas IPL player.",
+      "Dimitri Mascarenhas is known as an all-rounder.",
+      "Dimitri Mascarenhas bowls medium pace.",
+      "Dimitri Mascarenhas has played in the IPL.",
+      "Dimitri Mascarenhas is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Daren Sammy",
+    "player_id": "daren-sammy",
+    "facts": [
+      "Daren Sammy is an overseas IPL player.",
+      "Daren Sammy is known as an all-rounder.",
+      "Daren Sammy is a fast bowler.",
+      "Daren Sammy has captained an IPL team.",
+      "Daren Sammy is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Mitchell McClenaghan",
+    "player_id": "mitchell-mcclenaghan",
+    "facts": [
+      "Mitchell McClenaghan is an overseas IPL player.",
+      "Mitchell McClenaghan is primarily a batsman.",
+      "Mitchell McClenaghan is a fast bowler.",
+      "Mitchell McClenaghan has won the IPL title.",
+      "Mitchell McClenaghan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Zahir Khan",
+    "player_id": "zahir-khan",
+    "facts": [
+      "Zahir Khan is an overseas IPL player.",
+      "Zahir Khan is primarily a batsman.",
+      "Zahir Khan is a spin bowler.",
+      "Zahir Khan has played in the IPL.",
+      "Zahir Khan is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Noor Ahmad",
+    "player_id": "noor-ahmad",
+    "facts": [
+      "Noor Ahmad is an overseas IPL player.",
+      "Noor Ahmad is primarily a batsman.",
+      "Noor Ahmad is a spin bowler.",
+      "Noor Ahmad has played in the IPL.",
+      "Noor Ahmad is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Ikram Ali Khil",
+    "player_id": "ikram-ali-khil",
+    "facts": [
+      "Ikram Ali Khil is an overseas IPL player.",
+      "Ikram Ali Khil is a wicketkeeper.",
+      "Ikram Ali Khil bats right-handed.",
+      "Ikram Ali Khil has played in the IPL.",
+      "Ikram Ali Khil is a well-known IPL player."
+    ]
+  },
+  {
+    "player_name": "Azmatullah Omarzai",
+    "player_id": "azmatullah-omarzai",
+    "facts": [
+      "Azmatullah Omarzai is an overseas IPL player.",
+      "Azmatullah Omarzai is known as an all-rounder.",
+      "Azmatullah Omarzai is a fast bowler.",
+      "Azmatullah Omarzai has played in the IPL.",
+      "Azmatullah Omarzai is a well-known IPL player."
+    ]
+  }
+]

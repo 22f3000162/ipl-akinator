@@ -1,0 +1,58 @@
+INFO: Converting CSV → JSON...
+INFO: Converted: Virat Kohli
+INFO: Converted: MS Dhoni
+INFO: Converted: Rohit Sharma
+INFO: Converted: Tapan Sharma
+INFO: Converted: Jasprit Bumrah
+INFO: Converted: Rashid Khan
+INFO: Converted: Andre Russell
+INFO: Converted: Kruger van Wyk
+INFO: Converted: Michael Vaughan
+INFO: Converted: David Warner
+INFO: Converted: KL Rahul
+INFO: Converted: Rishabh Pant
+INFO: Converted: Ruturaj Gaikwad
+INFO: Converted: Ravindra Jadeja
+INFO: Converted: Yuzvendra Chahal
+INFO: Converted: Mohammed Shami
+INFO: Converted: Bhuvneshwar Kumar
+INFO: Converted: Kane Williamson
+INFO: Converted: Joe Root
+INFO: Converted: Sandeep Sharma
+INFO: Converted: Faf du Plessis
+INFO: Converted: Suryakumar Yadav
+INFO: Converted: Pat Cummins
+INFO: Converted: Prithvi Shaw
+INFO: Converted: Adam Zampa
+INFO: Converted: Ishan Kishan
+INFO: Converted: Praveen Dubey
+INFO: Converted: Varun Chakaravarthy
+INFO: Converted: Kuldeep Yadav
+INFO: Converted: Deepak Hooda
+INFO: Converted: Tushar Deshpande
+INFO: Converted 31 players from CSV.
+INFO: CSV conversion done: 31 players
+INFO: Expanding dataset to 100 players with Gemini Pro...
+INFO: Generating attributes for 69 additional players...
+INFO: Batch 1/14: Sachin Tendulkar, Adam Gilchrist, Sourav Ganguly, Rahul Dravid, VVS Laxman
+INFO:   ✅ Generated: Sachin Tendulkar
+INFO:   ✅ Generated: Adam Gilchrist
+INFO:   ✅ Generated: Sourav Ganguly
+INFO:   ✅ Generated: Rahul Dravid
+INFO:   ✅ Generated: VVS Laxman
+INFO:   ⏳ Waiting 10s for next batch...
+INFO: Batch 2/14: Anil Kumble, Zaheer Khan, Harbhajan Singh, Yuvraj Singh, Suresh Raina
+INFO:   ✅ Generated: Anil Kumble
+INFO:   ✅ Generated: Zaheer Khan
+INFO:   ✅ Generated: Harbhajan Singh
+INFO:   ✅ Generated: Yuvraj Singh
+INFO:   ✅ Generated: Suresh Raina
+INFO:   ⏳ Waiting 10s for next batch...
+INFO: Batch 3/14: Gautam Gambhir, Virender Sehwag, Murali Vijay, Ambati Rayudu, Robin Uthappa
+INFO:   ✅ Generated: Gautam Gambhir
+INFO:   ✅ Generated: Virender Sehwag
+INFO:   ✅ Generated: Murali Vijay
+INFO:   ✅ Generated: Ambati Rayudu
+INFO:   ✅ Generated: Robin Uthappa
+INFO:   ⏳ Waiting 10s for next batch...
+INFO: Batch 4/14: Dinesh Karthik, Wriddhiman Saha, Ajinkya Rahane, Ravichandran Ashwin, Pragyan Ojha
