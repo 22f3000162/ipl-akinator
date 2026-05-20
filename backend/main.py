@@ -41,7 +41,7 @@ logger = logging.getLogger(__name__)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("🏏 IPL Akinator API starting up...")
-    logger.info("GEMINI_API_KEY set: %s", bool(os.getenv("GEMINI_API_KEY")))
+    logger.info("LLM_API_KEY set: %s", bool(os.getenv("LLM_API_KEY") or os.getenv("OPENAI_API_KEY") or os.getenv("GEMINI_API_KEY")))
     logger.info("GOOGLE_APPLICATION_CREDENTIALS: %s", os.getenv("GOOGLE_APPLICATION_CREDENTIALS", "not set"))
     yield
     logger.info("IPL Akinator API shutting down.")
@@ -55,7 +55,7 @@ app = FastAPI(
     title="IPL Akinator API",
     description=(
         "AI-powered IPL player guessing system. "
-        "Hybrid Bayesian reasoning engine + Gemini language models."
+        "Hybrid Bayesian reasoning engine + configurable LLM pipeline."
     ),
     version="1.0.0",
     lifespan=lifespan,
@@ -83,7 +83,7 @@ app.include_router(feedback.router)
 async def health():
     return {
         "status": "ok",
-        "gemini_configured": bool(os.getenv("GEMINI_API_KEY")),
+        "llm_configured": bool(os.getenv("LLM_API_KEY") or os.getenv("OPENAI_API_KEY") or os.getenv("GEMINI_API_KEY")),
         "firebase_configured": bool(os.getenv("GOOGLE_APPLICATION_CREDENTIALS")),
     }
 

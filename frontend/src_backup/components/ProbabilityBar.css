@@ -1,0 +1,92 @@
+/* ProbabilityBar.css */
+.prob-bar-container {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.prob-bar-title {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.prob-bar-title::before {
+  content: '';
+  width: 3px;
+  height: 12px;
+  background: var(--accent-gold);
+  border-radius: 2px;
+  display: block;
+}
+
+.candidate-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.candidate-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.candidate-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.candidate-rank {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.candidate-score {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent-gold);
+  font-variant-numeric: tabular-nums;
+}
+
+.bar-track {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 100px;
+  transition: width 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+}
+
+.bar-fill::after {
+  content: '';
+  position: absolute;
+  top: 0; right: 0; bottom: 0;
+  width: 20px;
+  background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3));
+  border-radius: 100px;
+}
+
+.bar-fill.rank-1 { background: linear-gradient(90deg, #f5a623, #fbbf24); }
+.bar-fill.rank-2 { background: linear-gradient(90deg, #4f8ef7, #60a5fa); }
+.bar-fill.rank-3 { background: linear-gradient(90deg, #a78bfa, #c4b5fd); }
+
+.no-candidates {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 13px;
+  padding: 16px 0;
+}

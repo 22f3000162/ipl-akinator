@@ -23,9 +23,9 @@ from backend.firebase.firestore_client import get_db
 from backend.firebase.session_manager import (
     close_session, create_session, get_session, save_session,
 )
-from backend.gemini.interpreter import AnswerInterpreter
-from backend.gemini.naturalizer import QATurn, QuestionNaturalizer
-from backend.gemini.revealer import PlayerRevealer
+from backend.llm.interpreter import AnswerInterpreter
+from backend.llm.naturalizer import QATurn, QuestionNaturalizer
+from backend.llm.revealer import PlayerRevealer
 from backend.models.player import Player
 from backend.models.schemas import (
     AnswerRequest, AnswerResponse, CandidateInfo,
@@ -58,7 +58,7 @@ _ALL_PLAYERS: list[Player] = _load_players()
 logger.info("Loaded %d players from players.json", len(_ALL_PLAYERS))
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Lazy-init Gemini modules
+# Lazy-init LLM modules
 # ─────────────────────────────────────────────────────────────────────────────
 
 _interpreter: AnswerInterpreter | None = None

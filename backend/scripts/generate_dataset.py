@@ -29,7 +29,7 @@ import sys
 import time
 from pathlib import Path
 
-import google.generativeai as genai
+from backend.llm import LLMClient
 from dotenv import load_dotenv
 
 # Allow running from project root
@@ -259,24 +259,15 @@ ADDITIONAL_PLAYERS = [
 ]
 
 
-def expand_with_gemini(
+def expand_with_llm(
     existing_names: set[str],
     target_total: int,
-    api_key: str,
+    client: LLMClient,
     batch_size: int = 5,
 ) -> list[dict]:
-    """Use Gemini Pro to generate attributes for additional players."""
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(
-        model_name="gemini-2.5-flash",
-        system_instruction=EXPANSION_SYSTEM_PROMPT,
-        generation_config=genai.GenerationConfig(
-            response_mime_type="application/json",
-            response_schema=EXPANSION_SCHEMA,
-            temperature=0.3,
-            max_output_tokens=8192,
-        ),
-    )
+    """Use an LLM to generate attributes for additional players."""
+    # Model name is handled by client or can be overridden here
+    model_name = os.getenv("LLM_MODEL") or "gpt-4o-mini"
 
     # Filter to players not already in CSV
     to_generate = [p for p in ADDITIONAL_PLAYERS if p not in existing_names]
@@ -304,8 +295,14 @@ def expand_with_gemini(
         )
 
         try:
-            response = model.generate_content(prompt)
-            batch_data = json.loads(response.text)
+            batch_data = client.generate_json(
+                system_prompt=EXPANSION_SYSTEM_PROMPT,
+                user_prompt=prompt,
+                model=model_name,
+                response_schema=EXPANSION_SCHEMA,
+                temperature=0.3,
+                max_tokens=4096
+            )
 
             for player_data in batch_data:
                 name = player_data.get("name", "").strip()
@@ -402,7 +399,7 @@ def main() -> None:
     args = parser.parse_args()
 
     output_path = Path(args.output)
-    api_key = os.getenv("GEMINI_API_KEY")
+    client = LLMClient()
     all_players: list[dict] = []
 
     # ── Convert mode ──────────────────────────────────────────────
@@ -414,16 +411,12 @@ def main() -> None:
 
     # ── Expand mode ───────────────────────────────────────────────
     if args.mode in ("expand", "full"):
-        if not api_key:
-            logger.error("GEMINI_API_KEY not set — cannot expand with Gemini Pro.")
-            sys.exit(1)
-
         existing_names = {p["name"] for p in all_players}
-        logger.info("Expanding dataset to %d players with Gemini Pro...", args.target)
-        extra = expand_with_gemini(
+        logger.info("Expanding dataset to %d players with LLM...", args.target)
+        extra = expand_with_llm(
             existing_names=existing_names,
             target_total=args.target,
-            api_key=api_key,
+            client=client,
         )
         all_players.extend(extra)
 
